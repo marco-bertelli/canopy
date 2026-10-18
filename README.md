@@ -14,7 +14,7 @@ Browse collections, write native queries, build aggregations stage by stage, rea
 
 [Download](https://github.com/marco-bertelli/canopy/releases) · [Features](#features) · [Build from source](#build-from-source) · [Roadmap](#roadmap) · [Contributing](#contributing)
 
-![Canopy workspace](docs/screenshots/workspace-light.png)
+![Canopy demo: query, inspect, aggregate, explain](docs/demo.gif)
 
 </div>
 
