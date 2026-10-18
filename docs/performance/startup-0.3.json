@@ -1,0 +1,19 @@
+{
+  "version": "0.3.0",
+  "initialScripts": [
+    {
+      "file": "assets/index-CWoyNWIZ.js",
+      "bytes": 80271
+    },
+    {
+      "file": "assets/react-BwpUwQJC.js",
+      "bytes": 223078
+    },
+    {
+      "file": "assets/runtime-Dp1pzeXC.js",
+      "bytes": 1266
+    }
+  ],
+  "totalBytes": 304615,
+  "note": "Static entry/modulepreload graph. Native test independently verifies editor, pipeline, Explain, example, demo and BSON chunks are absent at welcome."
+}

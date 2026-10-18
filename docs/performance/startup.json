@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "initialScripts": [
+    {
+      "file": "assets/index-DYSsdfdT.js",
+      "bytes": 79987
+    },
+    {
+      "file": "assets/react-BwpUwQJC.js",
+      "bytes": 223078
+    },
+    {
+      "file": "assets/runtime-Dp1pzeXC.js",
+      "bytes": 1266
+    }
+  ],
+  "totalBytes": 304331,
+  "note": "Static entry/modulepreload graph. Desktop test independently verifies editor/demo/BSON chunks are absent at welcome."
+}
